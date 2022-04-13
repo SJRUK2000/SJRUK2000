@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
-<h3 align="center">A passionate Fullstack Developer from Camden County, New Jersey</h3>
+<h3 align="center">A Passionate Fullstack Developer from Camden County, New Jersey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjruk2000&label=Profile%20views&color=b40e0e&style=flat" alt="sjruk2000" /> </p>
 
