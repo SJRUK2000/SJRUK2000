@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BloomTech's Unit 3 - Advanced React**
 
-- 🌱 I’m currently learning **everything.**
+- 🌱 I’m currently re-learning **The Basics** while expanding my knowledge in **everything.**
 
 - 👯 I’m looking to collaborate on **prodjects that expand my horizons and equip me with timeless skills.**
 
