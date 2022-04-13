@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
-<h3 align="center">A passionate fullstack developer from Camden County, New Jersey</h3>
+<h3 align="center">A passionate Fullstack Developer from Camden County, New Jersey</h3>
 
-- 🔭 I’m currently working on **BloomTech Unit 3**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjruk2000&label=Profile%20views&color=b40e0e&style=flat" alt="sjruk2000" /> </p>
+
+- 🔭 I’m currently working on **BloomTech's Unit 3 - Advanced React**
 
 - 🌱 I’m currently learning **everything.**
 
-- 💬 Ask me about **React**
+- 👯 I’m looking to collaborate on **prodjects that expand my horizons and equip me with timeless skills.**
+
+- 🤝 I’m looking for help with **expanding my knowledge.**
+
+- 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **seanjohnreedubeleknuckles@gmail.com**
 
