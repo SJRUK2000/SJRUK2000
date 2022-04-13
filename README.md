@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently re-learning **The Basics** while expanding my knowledge in **everything.**
 
-- 👯 I’m looking to collaborate on **prodjects that expand my horizons and equip me with timeless skills.**
+- 👯 I’m looking to collaborate on **projects that expand my horizons and equip me with timeless skills.**
 
 - 🤝 I’m looking for help with **honing my skills to a fine edge.**
 
