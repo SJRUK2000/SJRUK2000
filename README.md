@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjruk2000&label=Profile%20views&color=b40e0e&style=flat" alt="sjruk2000" /> </p>
 
-- 🔭 I’m currently working on **BloomTech's Unit 3 - Advanced React.**
+- 🔭 I’m currently working on **BloomTech's Advanced Computer Science.**
 
-- 🌱 I’m currently re-learning **The Basics** while expanding my knowledge in **everything.**
+- 🌱 I’m currently re-learning **Python** while expanding my knowledge in **React.**
 
 - 👯 I’m looking to collaborate on **projects that expand my horizons and equip me with timeless skills.**
 
 - 🤝 I’m looking for help with **honing my skills to a fine edge.**
 
-- 💬 Ask me about **Anything.**
+- 💬 Ask me about **E2E Testing**
 
 - 📫 How to reach me **seanjohnreedubeleknuckles@gmail.com**
 
