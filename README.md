@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Expanding my knowledge**
 
-- 💬 Ask me about **Anything.**
+- 💬 Ask me about **Comedy, so I can tell crazy stories and corny jokes.**
 
 - 📫 How to reach me **seanjohnreedubeleknuckles@gmail.com**
 
