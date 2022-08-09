@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
-<h3 align="center">A passionate fullstack developer from Camden County, New Jersey</h3>
+<h3 align="center">An enthusiastic fullstack developer from Camden County, New Jersey</h3>
 
 - 🔭 I’m currently working on **BloomTech's Advanced Computer Science**
 
