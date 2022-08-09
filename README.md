@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web 3 Development through Solidity**
 
-- 👯 I’m looking to collaborate on **Projects that expand my horizons, ideally in Web 3.0 applications..**
+- 👯 I’m looking to collaborate on **Projects that expand my horizons, ideally in Web 3 applications..**
 
 - 🤝 I’m looking for help with **Expanding my knowledge**
 
