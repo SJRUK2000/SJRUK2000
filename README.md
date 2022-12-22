@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **seanjohnreedubeleknuckles@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1sx0TRzwH--FWjNWqpcntCES0CRrZ5LHht1sRSllAghk/edit?usp=sharing](https://docs.google.com/document/d/1sx0TRzwH--FWjNWqpcntCES0CRrZ5LHht1sRSllAghk/edit?usp=sharing)
+- 📄 To know more about my experiences: Connect with me on LinkedIn!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
