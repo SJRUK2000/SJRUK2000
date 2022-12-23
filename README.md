@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
 <h3 align="center">An enthusiastic fullstack developer from Camden County, New Jersey</h3>
 
-- 🔭 I’m currently working on **BloomTech's Advanced Computer Science**
+- 🔭 I’m currently working on **Volenteering as a Full Stack Developer at UnderDog Devs**
 
 - 🌱 I’m currently learning **Web 3 Development through Solidity**
 
-- 👯 I’m looking to collaborate on **Projects that expand my horizons and capabilities**
+- 👯 I’m looking to collaborate on **Projects that make meaningful impact & expand my horizons and capabilities**
 
 - 🤝 I’m looking for help with **Finding a position to contribute to the best of my ability.**
 
