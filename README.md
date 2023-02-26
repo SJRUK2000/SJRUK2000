@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Volenteering as a Full Stack Developer at UnderDog Devs**
 
-- 🌱 I’m currently learning **Web 3 Development through Solidity**
+- 🌱 I’m currently brushing up on **TypeScript w React**
 
 - 👯 I’m looking to collaborate on **Projects that make meaningful impact & expand my horizons and capabilities**
 
