@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
-<h3 align="center">An enthusiastic fullstack developer from Camden County, New Jersey</h3>
+<h3 align="center">I'm an enthusiastic Full-Stack Web Developer and IT Professional from Camden County, New Jersey</h3>
 
 - 🔭 I’m currently working on **Volenteering as a Full Stack Developer at UnderDog Devs**
 
-- 🌱 I’m currently brushing up on **TypeScript w React**
+- 🌱 I’m currently brushing up on **React with TypeScript**
 
 - 👯 I’m looking to collaborate on **Projects that make meaningful impact & expand my horizons and capabilities**
 
@@ -15,6 +15,16 @@
 
 - 📄 To know more about my experiences: Connect with me on LinkedIn!
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/seanubele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seanubele" height="30" width="40" /></a>
