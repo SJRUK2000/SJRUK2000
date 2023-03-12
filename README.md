@@ -24,6 +24,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SJRUK2000/azure-configure-activedir)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SJRUK2000/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/SJRUK2000/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/SJRUK2000/Building-Intuition-for-DNS)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
