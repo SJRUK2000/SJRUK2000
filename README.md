@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects that make meaningful impact & expand my horizons and capabilities**
 
-- 🤝 I’m looking for help with **Improving my Foundational and Leadership skills.**
+- 🤝 I’m looking for help with **Improving my Leadership skills.**
 
 - 💬 Ask me about **Comedy, so I can tell crazy stories and corny jokes.**
 
