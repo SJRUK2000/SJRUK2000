@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
-<h3 align="center">I'm an enthusiastic Full-Stack Web Developer and IT Professional from Camden County, New Jersey</h3>
+<h3 align="center">I'm an enthusiastic Software Engineer from Camden County, New Jersey</h3>
 
-- 🔭 I’m currently working on **Volenteering as a Full Stack Developer at UnderDog Devs**
+- 🔭 I’m currently working on **Fortifying my foundational problem solving skills**
 
 - 🌱 I’m currently brushing up on **React with TypeScript**
 
