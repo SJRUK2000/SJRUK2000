@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sean-John Reed Ubele-Knuckles</h1>
 <h3 align="center">I'm an enthusiastic Software Engineer from Camden County, New Jersey</h3>
 
-- 🔭 I’m currently working on **Fortifying my foundational problem solving skills**
+- 🔭 I’m currently working on **Projects that are protected by NDAs**
 
-- 🌱 I’m currently brushing up on **React with TypeScript**
+- 🌱 I’m currently brushing up on **Fortifying my foundational problem solving skills**
 
 - 👯 I’m looking to collaborate on **Projects that make meaningful impact & expand my horizons and capabilities**
 
