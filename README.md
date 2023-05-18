@@ -15,7 +15,10 @@
 
 - 📄 To know more about my experiences: Connect with me on LinkedIn!
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Cyber-Security Projects:</h2>
+
+- <b>Azure SOC and Honeynet</b>
+  - [Azure SOC and Honeynet](https://github.com/SJRUK2000/Azure-SOC-and-Honeynet)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SJRUK2000/osticket-prereqs)
